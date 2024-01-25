@@ -25,3 +25,12 @@ This firm wished to use the data of feedbacks and customers reviews to improve t
     <li>Preparing a clear and professional presentation intended to a non-technical interlocutor</li>
 
 <href>https://openclassrooms.com/fr/courses/4577696-prenez-la-parole-en-public</href>
+
+# Références
+- [Openclassrooms : Appréhendez le fonctionnement de l'analyse de la variance (ANOVA)](https://openclassrooms.com/fr/courses/4525326-realisez-des-modelisations-de-donnees-performantes/5754154-apprehendez-le-fonctionnement-de-lanalyse-de-la-variance-anova)
+- [Openclassrooms : Analysez une variable quantitative et une qualitative par ANOVA](https://openclassrooms.com/fr/courses/4525266-decrivez-et-nettoyez-votre-jeu-de-donnees/4774896-analysez-une-variable-quantitative-et-une-qualitative-par-anova)
+- [Openclassrooms : Réalisez une analyse de la variance](https://openclassrooms.com/fr/courses/4525326-realisez-des-modelisations-de-donnees-performantes/5754155-realisez-une-analyse-de-la-variance)
+- [Openclassrooms : TP : Pratiquez l'analyse de la variance sur le jeu de données du blé](https://openclassrooms.com/fr/courses/4525326-realisez-des-modelisations-de-donnees-performantes/5754157-tp-pratiquez-lanalyse-de-la-variance-sur-le-jeu-de-donnees-du-ble)
+- [Youtube : l'ANOVA en 3 minutes ;-)](https://www.youtube.com/watch?v=lITNHx2z5FE&t=8s)
+- [Comparaison de plusieurs moyennes : ANOVA](https://www.youtube.com/watch?v=r4SaFaA0uxk)
+- [Github : Test d'indépendance 🎲 avec Python](https://asardell.github.io/statistique-python/)
