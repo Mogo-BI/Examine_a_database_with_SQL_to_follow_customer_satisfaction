@@ -23,3 +23,5 @@ This firm wished to use the data of feedbacks and customers reviews to improve t
 
   <h2>4. Presentation of results and methodology apply</h2>
     <li>Preparing a clear and professional presentation intended to a non-technical interlocutor</li>
+
+<href>https://openclassrooms.com/fr/courses/4577696-prenez-la-parole-en-public</href>
