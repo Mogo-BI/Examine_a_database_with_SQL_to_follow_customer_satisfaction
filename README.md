@@ -1,4 +1,4 @@
-# Explore a database with SQL to follow customer satisfaction
+# Examine a database with SQL to follow customer satisfaction
 <h1>I. Context</h1>
 
 I did a consulting mission like BI Analyst in **Best Market**, a mass distribution company.
@@ -28,20 +28,23 @@ This firm wished to use the data of feedbacks and customers reviews to improve t
 
   <h2>1. Technologies</h2>
 
-  <h2>2. Skills</h2>
+  <h2>2. Assessed skills</h2>
+    <li>Justify the consistency of SQL query results with business problems</li>
+    <li>Maintain a data catalog up to date to ensure its accessibility</li>
+    <li>Write advanced scripts in SQL</li>
+    <li>Synthesize users’ business needs in the database</li>
 
 <h1>IV. References</h1>
 
   <h2>1. Data</h2>
-    <li><a href="https://openclassrooms.com/fr/courses/7869811-developpez-votre-culture-des-donnees">Openclassrooms : Développez votre culture des données</a></li>
+    <li><a href="https://openclassrooms.com/fr/courses/7818671-requetez-une-base-de-donnees-avec-sql">Openclassrooms : Requêtez une base de données avec SQL</a></li>
+    <li><a href="https://sql.sh/cours/">Sql.sh : Cours et tutoriels sur le langage SQL</li>
 
-  <h2>2. Office automation</h2>
-    <li><a href="https://openclassrooms.com/fr/courses/7168336-maitrisez-les-fondamentaux-dexcel">Openclassrooms : Maitrîsez les fondamentaux d'Excel</a></li>
-    <li><a href="https://openclassrooms.com/fr/courses/7139456-perfectionnez-vous-sur-excel">Openclassrooms : Perfectionnez vous sur Excel</a></li>
+  <h2>2. Marketing & communication</h2>
+    <li><a href="https://openclassrooms.com/fr/courses/4762856-analysez-des-donnees-marketing">Openclassrooms : Analysez des données marketing</a></li>
  
-  <h2>3. Softskills</h2>
-    <li><a href="https://openclassrooms.com/fr/courses/3013891-ameliorez-limpact-de-vos-presentations">Openclassrooms : Améliorez l'impact de vos présentations</a></li>
-    <li><a href="https://course.oc-static.com/projects/Data+Storytelling+639/Fiche+pratique+-+Les+principaux+types+de++visualisations.pdf">Fiche Pratique : Les principaux types de visualisations</li>
+  <h2>3. Development</h2>
+    <li><a href="https://openclassrooms.com/fr/courses/6938711-modelisez-vos-bases-de-donnees">Openclassrooms : Modélisez vos bases de données</a></li>
 
 
       
