@@ -39,6 +39,9 @@ This firm wished to use the data of feedbacks and customers reviews to improve t
   <h2>1. Data</h2>
     <li><a href="https://openclassrooms.com/fr/courses/7818671-requetez-une-base-de-donnees-avec-sql">Openclassrooms : Requêtez une base de données avec SQL</a></li>
     <li><a href="https://sql.sh/cours/">Sql.sh : Cours et tutoriels sur le langage SQL</li>
+    <li><a href="https://www.sqlite.org/docs.html">Sqlite.org : Documentation SQL</li>
+    <li><a href="https://www.sqlitetutorial.net/">Sqlitetutorial.net : Tutoriels SQL</li>
+    <li><a href="https://stackoverflow.com/questions/tagged/sqlite">Stackoverflow : Forums SQL</li>
 
   <h2>2. Marketing & communication</h2>
     <li><a href="https://openclassrooms.com/fr/courses/4762856-analysez-des-donnees-marketing">Openclassrooms : Analysez des données marketing</a></li>
