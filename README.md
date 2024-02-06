@@ -1,4 +1,4 @@
-# Explore_a_database_with_SQL_to_follow_customer_satisfaction
+# Explore a database with SQL to follow customer satisfaction
 <h1>I. Context</h1>
 
 I did a consulting mission like BI Analyst in **Best Market**, a mass distribution company.
@@ -32,6 +32,19 @@ This firm wished to use the data of feedbacks and customers reviews to improve t
 
 <h1>IV. References</h1>
 
+  <h2>1. Data</h2>
+    <li><a href="https://openclassrooms.com/fr/courses/7869811-developpez-votre-culture-des-donnees">Openclassrooms : Développez votre culture des données</a></li>
+
+  <h2>2. Office automation</h2>
+    <li><a href="https://openclassrooms.com/fr/courses/7168336-maitrisez-les-fondamentaux-dexcel">Openclassrooms : Maitrîsez les fondamentaux d'Excel</a></li>
+    <li><a href="https://openclassrooms.com/fr/courses/7139456-perfectionnez-vous-sur-excel">Openclassrooms : Perfectionnez vous sur Excel</a></li>
+ 
+  <h2>3. Softskills</h2>
+    <li><a href="https://openclassrooms.com/fr/courses/3013891-ameliorez-limpact-de-vos-presentations">Openclassrooms : Améliorez l'impact de vos présentations</a></li>
+    <li><a href="https://course.oc-static.com/projects/Data+Storytelling+639/Fiche+pratique+-+Les+principaux+types+de++visualisations.pdf">Fiche Pratique : Les principaux types de visualisations</li>
+
+
+      
 - [Openclassrooms : Appréhendez le fonctionnement de l'analyse de la variance (ANOVA)](https://openclassrooms.com/fr/courses/4525326-realisez-des-modelisations-de-donnees-performantes/5754154-apprehendez-le-fonctionnement-de-lanalyse-de-la-variance-anova)
 - [Openclassrooms : Analysez une variable quantitative et une qualitative par ANOVA](https://openclassrooms.com/fr/courses/4525266-decrivez-et-nettoyez-votre-jeu-de-donnees/4774896-analysez-une-variable-quantitative-et-une-qualitative-par-anova)
 - [Openclassrooms : Réalisez une analyse de la variance](https://openclassrooms.com/fr/courses/4525326-realisez-des-modelisations-de-donnees-performantes/5754155-realisez-une-analyse-de-la-variance)
