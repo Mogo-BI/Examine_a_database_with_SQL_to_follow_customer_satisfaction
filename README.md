@@ -27,6 +27,9 @@ This firm wished to use the data of feedbacks and customers reviews to improve t
 <h1>III. Technologies & skills</h1>
 
   <h2>1. Technologies</h2>
+    <li>Command prompt</li>
+    <li>SQL Power Architect</li>
+    <li>SQLite Studio</li>
 
   <h2>2. Assessed skills</h2>
     <li>Justify the consistency of SQL query results with business problems</li>
