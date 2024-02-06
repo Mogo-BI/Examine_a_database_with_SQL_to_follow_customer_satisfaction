@@ -30,6 +30,7 @@ This firm wished to use the data of feedbacks and customers reviews to improve t
     <li>Command prompt</li>
     <li>SQL Power Architect</li>
     <li>SQLite Studio</li>
+    <li>Microsoft Powerpoint</li>
 
   <h2>2. Assessed skills</h2>
     <li>Justify the consistency of SQL query results with business problems</li>
