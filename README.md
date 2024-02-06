@@ -24,9 +24,14 @@ This firm wished to use the data of feedbacks and customers reviews to improve t
   <h2>4. Presentation of results and methodology apply</h2>
     <li>Preparing a clear and professional presentation intended to a non-technical interlocutor</li>
 
-<href>https://openclassrooms.com/fr/courses/4577696-prenez-la-parole-en-public</href>
+<h1>III. Technologies & skills</h1>
 
-# Références
+  <h2>1. Technologies</h2>
+
+  <h2>2. Skills</h2>
+
+<h1>IV. References</h1>
+
 - [Openclassrooms : Appréhendez le fonctionnement de l'analyse de la variance (ANOVA)](https://openclassrooms.com/fr/courses/4525326-realisez-des-modelisations-de-donnees-performantes/5754154-apprehendez-le-fonctionnement-de-lanalyse-de-la-variance-anova)
 - [Openclassrooms : Analysez une variable quantitative et une qualitative par ANOVA](https://openclassrooms.com/fr/courses/4525266-decrivez-et-nettoyez-votre-jeu-de-donnees/4774896-analysez-une-variable-quantitative-et-une-qualitative-par-anova)
 - [Openclassrooms : Réalisez une analyse de la variance](https://openclassrooms.com/fr/courses/4525326-realisez-des-modelisations-de-donnees-performantes/5754155-realisez-une-analyse-de-la-variance)
