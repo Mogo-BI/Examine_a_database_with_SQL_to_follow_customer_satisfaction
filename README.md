@@ -46,19 +46,10 @@ This firm wished to use the data of feedbacks and customers reviews to improve t
     <li><a href="https://www.sqlite.org/docs.html">Sqlite.org : Documentation SQL</li>
     <li><a href="https://www.sqlitetutorial.net/">Sqlitetutorial.net : Tutoriels SQL</li>
     <li><a href="https://stackoverflow.com/questions/tagged/sqlite">Stackoverflow : Forums SQL</li>
+    <li><a href="https://s3.eu-west-1.amazonaws.com/course.oc-static.com/projects/Business+Intelligence+Analyst/BIA_project+5/Qu%E2%80%99est-ce+que+le+Net+Promoter+Score++(1).pdf>Fiche Pratique : Net Promoter Score</li>
 
   <h2>2. Marketing & communication</h2>
     <li><a href="https://openclassrooms.com/fr/courses/4762856-analysez-des-donnees-marketing">Openclassrooms : Analysez des données marketing</a></li>
  
   <h2>3. Development</h2>
     <li><a href="https://openclassrooms.com/fr/courses/6938711-modelisez-vos-bases-de-donnees">Openclassrooms : Modélisez vos bases de données</a></li>
-
-
-      
-- [Openclassrooms : Appréhendez le fonctionnement de l'analyse de la variance (ANOVA)](https://openclassrooms.com/fr/courses/4525326-realisez-des-modelisations-de-donnees-performantes/5754154-apprehendez-le-fonctionnement-de-lanalyse-de-la-variance-anova)
-- [Openclassrooms : Analysez une variable quantitative et une qualitative par ANOVA](https://openclassrooms.com/fr/courses/4525266-decrivez-et-nettoyez-votre-jeu-de-donnees/4774896-analysez-une-variable-quantitative-et-une-qualitative-par-anova)
-- [Openclassrooms : Réalisez une analyse de la variance](https://openclassrooms.com/fr/courses/4525326-realisez-des-modelisations-de-donnees-performantes/5754155-realisez-une-analyse-de-la-variance)
-- [Openclassrooms : TP : Pratiquez l'analyse de la variance sur le jeu de données du blé](https://openclassrooms.com/fr/courses/4525326-realisez-des-modelisations-de-donnees-performantes/5754157-tp-pratiquez-lanalyse-de-la-variance-sur-le-jeu-de-donnees-du-ble)
-- [Youtube : l'ANOVA en 3 minutes ;-)](https://www.youtube.com/watch?v=lITNHx2z5FE&t=8s)
-- [Comparaison de plusieurs moyennes : ANOVA](https://www.youtube.com/watch?v=r4SaFaA0uxk)
-- [Github : Test d'indépendance 🎲 avec Python](https://asardell.github.io/statistique-python/)
